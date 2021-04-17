@@ -1,9 +1,9 @@
-# wget -O /etc/hosts https://raw.githubusercontent.com/andigoenfx/main/GoodbyeAds-YouTube.txt
+# wget -O /etc/hosts https://raw.githubusercontent.com/andigoenfx/blockAdsHost/main/GoodbyeAds-YouTube.txt
 
 or
 
-# wget -O /etc/hosts https://raw.githubusercontent.com/andigoenfx/main/adshost.txt
+# wget -O /etc/hosts https://raw.githubusercontent.com/andigoenfx/blockAdsHost/main/adshost.txt
 
 or
 
-# wget -O /etc/hosts https://raw.githubusercontent.com/andigoenfx/main/hosts
+# wget -O /etc/hosts https://raw.githubusercontent.com/andigoenfx/blockAdsHost/main/hosts
